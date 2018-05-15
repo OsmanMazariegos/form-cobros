@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "git@github.com:OsmanMazariegos/form-cobros.git/index.html",
+  "index": "C:/Program Files/Git/form-cobros/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "git@github.com:OsmanMazariegos/form-cobros.git/favicon.ico",
-        "git@github.com:OsmanMazariegos/form-cobros.git/index.html",
-        "git@github.com:OsmanMazariegos/form-cobros.git/inline.128adeb9946d8396165e.bundle.js",
-        "git@github.com:OsmanMazariegos/form-cobros.git/main.692b1825c0d581bd1824.bundle.js",
-        "git@github.com:OsmanMazariegos/form-cobros.git/polyfills.ad37cd45a71cb38eee76.bundle.js",
-        "git@github.com:OsmanMazariegos/form-cobros.git/styles.86112b064e5a404ae09b.bundle.css"
+        "C:/Program Files/Git/form-cobros/favicon.ico",
+        "C:/Program Files/Git/form-cobros/index.html",
+        "C:/Program Files/Git/form-cobros/inline.72d5e75f0b98ba5350fc.bundle.js",
+        "C:/Program Files/Git/form-cobros/main.50fc7d95e92483286416.bundle.js",
+        "C:/Program Files/Git/form-cobros/polyfills.ad37cd45a71cb38eee76.bundle.js",
+        "C:/Program Files/Git/form-cobros/styles.86112b064e5a404ae09b.bundle.css"
       ],
       "patterns": []
     },
@@ -21,10 +21,10 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "git@github.com:OsmanMazariegos/form-cobros.git/assets/icon-128x128.png",
-        "git@github.com:OsmanMazariegos/form-cobros.git/assets/icon-152x152.png",
-        "git@github.com:OsmanMazariegos/form-cobros.git/assets/icon-256x256.png",
-        "git@github.com:OsmanMazariegos/form-cobros.git/assets/icon-512x512.png"
+        "C:/Program Files/Git/form-cobros/assets/icon-128x128.png",
+        "C:/Program Files/Git/form-cobros/assets/icon-152x152.png",
+        "C:/Program Files/Git/form-cobros/assets/icon-256x256.png",
+        "C:/Program Files/Git/form-cobros/assets/icon-512x512.png"
       ],
       "patterns": [
         "https:\\/\\/cataas\\.com\\/.*"
@@ -33,15 +33,15 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "git@github.com:OsmanMazariegos/form-cobros.git/inline.128adeb9946d8396165e.bundle.js": "d9078962165cdff719741fefbd5479680687fe44",
-    "git@github.com:OsmanMazariegos/form-cobros.git/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
-    "git@github.com:OsmanMazariegos/form-cobros.git/main.692b1825c0d581bd1824.bundle.js": "eee69211a9624a92b9853407925fd865cc2dee02",
-    "git@github.com:OsmanMazariegos/form-cobros.git/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
-    "git@github.com:OsmanMazariegos/form-cobros.git/polyfills.ad37cd45a71cb38eee76.bundle.js": "f7eca8eeec782793d946a11338044f7426ab3494",
-    "git@github.com:OsmanMazariegos/form-cobros.git/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
-    "git@github.com:OsmanMazariegos/form-cobros.git/styles.86112b064e5a404ae09b.bundle.css": "7464a41958778cb56c1e2bf7dd9c5d110525d45f",
-    "git@github.com:OsmanMazariegos/form-cobros.git/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
-    "git@github.com:OsmanMazariegos/form-cobros.git/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "git@github.com:OsmanMazariegos/form-cobros.git/index.html": "5ba25631faa90981d924550649216cf9083c7a2b"
+    "C:/Program Files/Git/form-cobros/inline.72d5e75f0b98ba5350fc.bundle.js": "308a3eb6c0b4296c3659425a6ee9fdaef6586fab",
+    "C:/Program Files/Git/form-cobros/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
+    "C:/Program Files/Git/form-cobros/main.50fc7d95e92483286416.bundle.js": "75e7b93d23be2697ee041ae4e6e272787a40bfba",
+    "C:/Program Files/Git/form-cobros/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
+    "C:/Program Files/Git/form-cobros/polyfills.ad37cd45a71cb38eee76.bundle.js": "f7eca8eeec782793d946a11338044f7426ab3494",
+    "C:/Program Files/Git/form-cobros/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
+    "C:/Program Files/Git/form-cobros/styles.86112b064e5a404ae09b.bundle.css": "7464a41958778cb56c1e2bf7dd9c5d110525d45f",
+    "C:/Program Files/Git/form-cobros/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
+    "C:/Program Files/Git/form-cobros/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "C:/Program Files/Git/form-cobros/index.html": "e4f17841cea76b7c0f47d96a999f62a29b7e7a0d"
   }
 }
